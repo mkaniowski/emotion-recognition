@@ -1,0 +1,7 @@
+.vscode
+.venv
+data
+flowers
+*.keras
+data_
+untitled_project
